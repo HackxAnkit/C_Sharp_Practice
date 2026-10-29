@@ -1,0 +1,14 @@
+/Users/ankitbhandari/csharp/MyApp/bin/Debug/net10.0/MyApp
+/Users/ankitbhandari/csharp/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/Users/ankitbhandari/csharp/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/Users/ankitbhandari/csharp/MyApp/bin/Debug/net10.0/MyApp.dll
+/Users/ankitbhandari/csharp/MyApp/bin/Debug/net10.0/MyApp.pdb
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.dll
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.pdb
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/Users/ankitbhandari/csharp/MyApp/obj/Debug/net10.0/ref/MyApp.dll

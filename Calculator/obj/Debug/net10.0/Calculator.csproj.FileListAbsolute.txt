@@ -1,0 +1,14 @@
+/Users/ankitbhandari/csharp/Calculator/bin/Debug/net10.0/Calculator
+/Users/ankitbhandari/csharp/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/Users/ankitbhandari/csharp/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/Users/ankitbhandari/csharp/Calculator/bin/Debug/net10.0/Calculator.dll
+/Users/ankitbhandari/csharp/Calculator/bin/Debug/net10.0/Calculator.pdb
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.dll
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.pdb
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/Users/ankitbhandari/csharp/Calculator/obj/Debug/net10.0/ref/Calculator.dll
